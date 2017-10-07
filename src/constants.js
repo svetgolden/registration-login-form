@@ -1,0 +1,1 @@
+export const STORAGE_USERS_KEY = 'users';
