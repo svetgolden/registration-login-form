@@ -17,6 +17,7 @@ ReactDom.render(
        <Switch>
        <Route exact path ='/' component = {LoginPage} />
        <Route exact path ='/register' component = {RegistrationPage} />
+       <Route exact path ='/login' component = {LoginPage} />
        </Switch>
     </Router>
   </Provider>,document.getElementById('content')
